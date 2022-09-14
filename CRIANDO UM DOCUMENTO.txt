@@ -1,0 +1,12 @@
+                                          CRIANDO UM DOCUMENTO DE PLANEJAMENTO DE TESTE
+Analista de Software(QA)Elso Silva
+
+1.HISTÓRIA DE USUARIO
+2.Conhecer o produto
+3.Passos planejamento de teste
+1.	Levantamento de cenário de teste saber (quantos cenário de teste irá fazer)
+2.	Massa de dados
+3.	Elaboração seguindo as primícias de elaboração de teste
+4.	Executar os testes na ordem os que são prioridade
+5.	Abertura e acompanhamento de teste (relatório)
+
